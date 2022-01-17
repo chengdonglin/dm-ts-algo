@@ -2,4 +2,4 @@ language: node_js
 node_js: 
   - "12"
 script: 
-  - test:e2e
+  - npm run test:e2e
