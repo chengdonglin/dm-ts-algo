@@ -15,7 +15,7 @@
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "lint": "eslint \"{src,apps,lib,test}/**/*.ts\" --fix",
-    "test:cov": "jest --coverage",
+    "test:cov": "jest --config ./test/jest-e2e.json --coverage",
     "test:e2e": "jest --config ./test/jest-e2e.json",
     "build:npm": "rimraf lib && nest build -p tsconfig.npm.build.json"
   },
