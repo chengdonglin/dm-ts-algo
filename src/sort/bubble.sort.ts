@@ -1,5 +1,5 @@
 /*
- * @Description:
+ * @Description: 冒泡排序
  * @Date: 2022-01-17 15:22:09
  */
 import { Compare } from '../core/compare.const';
