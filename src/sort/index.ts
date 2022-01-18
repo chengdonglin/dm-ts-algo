@@ -4,3 +4,4 @@
  */
 export * from './bubble.sort';
 export * from './selection.sort';
+export * from './insert.sort';

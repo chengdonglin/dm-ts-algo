@@ -35,3 +35,5 @@ lerna-debug.log*
 !.vscode/extensions.json
 /test/coverage
 test/coverage
+lib
+/lib
