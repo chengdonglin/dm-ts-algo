@@ -6,3 +6,4 @@ export * from './bubble.sort';
 export * from './selection.sort';
 export * from './insert.sort';
 export * from './merge.sort';
+export * from './quick.sort';

@@ -8,7 +8,7 @@ type box = {
     a: number;
     b: number;
 };
-describe('测试冒泡排序', () => {
+describe('测试选择排序', () => {
     const array = [5, 4, 3, 2, 0, 9, 6];
     it('测试数组排序', () => {
         const s = new SelectionSort<number>(array, defaultCompare);
