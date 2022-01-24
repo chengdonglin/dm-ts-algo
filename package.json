@@ -1,6 +1,6 @@
 {
   "name": "dm-ts-algo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "typescript 排序，搜索算法",
   "author": "linchengdong",
   "private": false,
