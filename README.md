@@ -35,3 +35,4 @@ s.sort();
 ### 当前支持的搜索算法
 
 -   线性搜索 LinearSearch
+-   二分搜索 BinarySearch
